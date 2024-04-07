@@ -10,6 +10,6 @@ In addition, there is the possibility of including a new app.
 ![image](https://github.com/hadartayar/Translation-App/assets/49910770/ee262f0f-3665-4b15-acee-e3d0328c805f)
 
 
-Technology:
+Technology: 
     <img src="https://skillicons.dev/icons?i=git,react,ts,cs,dotnet" />
 
