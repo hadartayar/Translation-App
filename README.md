@@ -13,6 +13,5 @@ In addition, there is the possibility of including a new app.
 
 
 Technology:
-![image](https://github.com/hadartayar/Translation-App/assets/49910770/6970e19f-0a53-4694-a14d-a36cb8c2c758)
-![image](https://github.com/hadartayar/Translation-App/assets/49910770/86ce43d7-94eb-470f-80fe-5ef6ed80de9b)
-![image](https://github.com/hadartayar/Translation-App/assets/49910770/9995de62-7aff-4110-8378-034cdfb3f2a9)
+    <img src="https://skillicons.dev/icons?i=git,react,ts,cs,dotnet" />
+
