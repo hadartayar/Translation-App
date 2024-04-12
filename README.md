@@ -1,5 +1,4 @@
 # Translation App
- Translation App 
 There are different apps in this Translation Application.
 Each App includes a feature where users can input their own translations. 
 The user has the option to either download (xlsx format) or deploy the translations into a json file (stored on the server).
